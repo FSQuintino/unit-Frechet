@@ -1,3 +1,3 @@
-📄 [PDF](./weibull_fit.pdf)
+📄 [PDF](./UF modeling.pdf)
 
-📄 [Notebook](./weibull_fit.ipynb)
+📄 [Notebook](./uf_modeling.ipynb)
