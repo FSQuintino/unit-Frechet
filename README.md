@@ -1,3 +1,3 @@
-📄 [PDF](./UF modeling.pdf)
+📄 [PDF](./UF_Modeling.pdf)
 
 📄 [Notebook](./uf_modeling.ipynb)
